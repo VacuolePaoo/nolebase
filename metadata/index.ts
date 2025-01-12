@@ -12,7 +12,7 @@ export const include = ['笔记', '生活']
 /** Repo */
 export const githubRepoLink = 'https://github.com/VacuolePaoo/nolebase'
 /** Discord */
-export const discordLink = 'https://disboard.org/zh-cn/server/1273078781241987134'
+export const discordLink = 'https://disboard.org/zh-CN/server/1273078781241987134'
 
 /** 无协议前缀域名 */
 export const plainTargetDomain = 'note.vacuole.top'

@@ -105,7 +105,7 @@ const ExtendedTheme: Theme = {
       progress: number
     }>(), {
       properties: {
-        'zh-CN': [
+        '笔记': [
           {
             key: 'tags',
             type: 'tags',
