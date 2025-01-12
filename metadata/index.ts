@@ -2,20 +2,20 @@ import type { Creator } from '../scripts/types/metadata'
 import { getAvatarUrlByGithubName } from '../scripts/utils'
 
 /** 文本 */
-export const siteName = 'Nólëbase'
-export const siteShortName = 'Nólëbase'
+export const siteName = 'VacuoleNote'
+export const siteShortName = 'Vnote'
 export const siteDescription = '记录回忆，知识和畅想的地方'
 
 /** 文档所在目录 */
 export const include = ['笔记', '生活']
 
 /** Repo */
-export const githubRepoLink = 'https://github.com/nolebase/nolebase'
+export const githubRepoLink = 'https://github.com/VacuolePaoo/nolebase'
 /** Discord */
-export const discordLink = 'https://discord.gg/XuNFDcDZGj'
+export const discordLink = 'https://disboard.org/zh-cn/server/1273078781241987134'
 
 /** 无协议前缀域名 */
-export const plainTargetDomain = 'nolebase.ayaka.io'
+export const plainTargetDomain = 'note.vacuole.top'
 /** 完整域名 */
 export const targetDomain = `https://${plainTargetDomain}`
 
@@ -29,7 +29,7 @@ export const creators: Creator[] = [
     desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/nekomeowww' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/ayakaneko' },
+      { type: 'twitter', icon: 'x', link: 'https://twitter.com/ayakaneko' },
     ],
     nameAliases: ['nekomeowww', '绚香猫', '絢香猫', 'Neko Ayaka', 'Ayaka Neko'],
     emailAliases: ['neko@ayaka.moe'],
@@ -42,7 +42,20 @@ export const creators: Creator[] = [
     desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
-      { type: 'twitter', icon: 'twitter', link: 'https://twitter.com/OikawaRizumu' },
+      { type: 'twitter', icon: 'x', link: 'https://twitter.com/OikawaRizumu' },
+    ],
+    nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
+    emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],
+  },
+  {
+    name: 'VacuolePao',
+    avatar: '',
+    username: 'VacuolePaoo',
+    title: 'VacuoleNote 写作',
+    desc: '在职高中生，业余前端开发者，创作VacuoleNote文章内容',
+    links: [
+      { type: 'github', icon: 'github', link: 'https://github.com/VacuolePaoo' },
+      { type: 'bilibili', icon: 'bilibili', link: 'https://space.bilibili.com/518590350' },
     ],
     nameAliases: ['LittleSound', '绚香音', '絢香音', 'Rizumu Oikawa', 'Rizumu Ayaka', 'Ayaka Rizumu', 'Rizumu'],
     emailAliases: ['rizumu@ayaka.moe', 'rizumu@oqo.moe'],

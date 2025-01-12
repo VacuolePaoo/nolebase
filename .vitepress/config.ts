@@ -40,7 +40,7 @@ export default defineConfig({
         nav: [
           { text: '主页', link: '/zh-CN/' },
           { text: '笔记', link: '/zh-CN/笔记/' },
-          { text: '编目 Catalog', link: '/zh-CN/编目 Catalog/' },
+          // { text: '编目 Catalog', link: '/zh-CN/编目 Catalog/' },
           { text: '最近更新', link: '/zh-CN/toc' },
         ],
         socialLinks: [
@@ -58,7 +58,7 @@ export default defineConfig({
           { folderName: 'zh-CN/编目 Catalog', separate: true },
         ], 'zh-CN'),
         footer: {
-          message: '用 <span style="color: #e25555;">&#9829;</span> 撰写',
+          message: '<b>VacuolePao</b> 用 <span style="color: #e25555;">&#9829;</span> 撰写',
           copyright:
         '<a class="footer-cc-link" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> © 2022-PRESENT Nólëbase 的创作者们',
         },

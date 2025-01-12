@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ccbcf786e1da5256",
+        "id": "8d3b089089e251fb",
         "type": "tabs",
         "children": [
           {
-            "id": "1342313d7d589019",
+            "id": "a518efbf484521f6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,8 +93,52 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "bb95091291c86453",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "350d3e9dff1c4487",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4502dce5b7acfad0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "65200b186371d58e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -111,16 +155,33 @@
       "command-palette:打开命令面板": true,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian42-brat:BRAT": true,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "1342313d7d589019",
+  "active": "a518efbf484521f6",
   "lastOpenFiles": [
+    "😶‍🌫️云里物理/25-01 圆周运动.md",
+    "😶‍🌫️云里物理/25-01 圆周运动.png",
+    "😶‍🌫️云里物理/assets/Pasted Image 20250111230841_201.png",
+    "😶‍🌫️云里物理/assets/Pasted Image 20250111230730_351.png",
+    "😶‍🌫️云里物理/assets/Pasted Image 20250111230249_509.png",
+    "😶‍🌫️云里物理/assets/Pasted Image 20250111223500_919.png",
+    "😶‍🌫️云里物理/assets/Pasted Image 20250111221607_545.png",
+    "😶‍🌫️云里物理/assets/14.圆周运动.mp4",
+    "😶‍🌫️云里物理/assets",
+    "😶‍🌫️云里物理",
+    "assets/圆周运动定义.png",
+    "圆周运动.canvas",
+    "Excalidraw/Drawing 25-01-11 22.12.excalidraw.md",
+    "Excalidraw",
+    "未命名.md",
+    "assets",
+    "index.md",
     "zh-CN/笔记/index.md",
     "zh-CN/toc.md",
-    "未命名.canvas",
     "zh-CN/index.md",
     "public/android-chrome-192x192.png",
     "zh-CN/视图/未添加标签的页面.md",
@@ -136,12 +197,7 @@
     "笔记/Something/assets",
     "笔记/🎮 Minecraft/Play with friends 整合包.md",
     "笔记/Something",
-    "笔记/🎮 游戏/Minecraft",
-    "笔记/🎮 Minecraft",
-    "笔记/🛠️ 开发/☝️ 我的站点/assets/Recording 20240918223724.webm",
-    "笔记/🛠️ 开发/☝️ 我的站点/assets",
     "笔记/index.md",
-    "vite.config.ts.timestamp-1726481595144-655d05c60e446.mjs",
     "toc.md",
     "开源全平台/知识库-Logseq.md",
     "笔记/💾 资源分享/index.md",
@@ -152,10 +208,6 @@
     "开源全平台/assets/Pasted image 20240915222854.png",
     "笔记/如何.md",
     "笔记/1111111/防晒.md",
-    "笔记/1111111/未命名.md",
-    "笔记/💾宝藏软件/index.md",
-    "笔记/12121.md",
-    "日记/2024-09-15.md",
-    "2024-09-15.md"
+    "笔记/1111111/未命名.md"
   ]
 }
